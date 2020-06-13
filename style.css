@@ -1,0 +1,23 @@
+body{
+    padding:  5px 5px 5px 15px ;
+    height: 600px;
+}    
+.outer{
+    height: 550px;
+    width: 1250px;
+    background-color:;
+    position: relative;
+    padding: 10px 25px 10px 25px  ;
+    text-align: center;
+}
+.colorBtn{
+    position: absolute;
+    right:35rem ;
+    top: 15rem;
+    cursor: pointer;
+    border:1px solid #f15025;
+    outline: none;
+}
+.hex{
+    font-size: 3rem;
+}
